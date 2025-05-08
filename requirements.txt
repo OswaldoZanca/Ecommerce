@@ -1,0 +1,11 @@
+Django>=5.2
+djangorestframework
+python-decouple
+psycopg2-binary
+gunicorn
+pytest
+pytest-django
+django-environ
+crispy-bootstrap5
+django-crispy-forms
+django-money
